@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer-google-search-example",
+  "version": "1.0.0",
+  "description": "Search in Google with Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan D Grossman",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.3.1"
+  }
+}
