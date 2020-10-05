@@ -1,18 +1,33 @@
-# Puppeteer-Google-Search-Example
+# Puppeteer Google Search Example
+
+[![dependencies Status](https://david-dm.org/JuanDGrossman/Puppeteer-Google-Search-Example/status.svg?style=flat-square)](https://david-dm.org/JuanDGrossman/Puppeteer-Google-Search-Example)
 
 🍭 Puppeteer Code example which opens Google Search and Enter `Hello World` and Search for it.
 
-## To try on your machine
+## Usage
 
-### Clone this Repo
+- Clone this Repo
 
-`git clone https://github.com/JuanDGrossman/Puppeteer-Google-Search-Example`
+```sh
+git clone https://github.com/JuanDGrossman/Puppeteer-Google-Search-Example.git
+```
 
-### Cd into Folder
-`cd Pupp` then press `Tab` Key
+```sh
+cd Puppeteer-Google-Search-Example
+```
 
-### Install Packages
-`npm install`
+- Install Packages
 
-### Run it
-`node index.js`
+```sh
+npm install
+```
+
+- Run it
+
+```sh
+npm start
+```
+
+### License
+
+MIT
