@@ -21,7 +21,7 @@ async function run() {
 
 function blockingWait(seconds) {
     //simple blocking technique (wait...)
-    var waitTill = new Date(new Date().getTime() + seconds * 1000);
+    const waitTill = new Date(new Date().getTime() + seconds * 1000);
     while (waitTill > new Date()) {}
 
 }
